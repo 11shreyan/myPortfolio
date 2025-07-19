@@ -35,13 +35,13 @@ This website is designed to highlight my professional journey as a **Salesforce 
 
 myPortfolio/
 │
-├── index.html # Main website file
-├── Images/ # Contains profile and project images
-│ ├── Profile_Picture.jpg
-│ ├── Social Media Bot Detection.png
-│ ├── Driver Stress Analysis.png
-│ └── Emotion Detection.png
-└── README.md # You're here!
+├── index.html                  # Main HTML file
+├── README.md                   # Project documentation
+├── Images/                     # Folder for images
+│   ├── Profile_Picture.jpg
+│   ├── Social Media Bot Detection.png
+│   ├── Driver Stress Analysis.png
+│   └── Emotion Detection.png
 
 
 ---
