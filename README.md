@@ -33,7 +33,17 @@ This website is designed to highlight my professional journey as a **Salesforce 
 
 ## 📁 Folder Structure
 
-<pre> ``` myPortfolio/ ├── index.html # Main HTML file ├── README.md # Project documentation └── Images/ # Folder for images ├── Profile_Picture.jpg ├── Social Media Bot Detection.png ├── Driver Stress Analysis.png └── Emotion Detection.png ``` </pre>
+```
+myPortfolio/
+|
+├── index.html                  # Main HTML file
+├── README.md                   # Project documentation
+├── Images/                     # Folder for images
+|   ├── Profile_Picture.jpg
+|   ├── Social Media Bot Detection.png
+|   ├── Driver Stress Analysis.png
+|   └── Emotion Detection.png
+```
 
 ## 📸 Featured Projects
 
