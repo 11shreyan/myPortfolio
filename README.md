@@ -2,7 +2,6 @@
 
 Welcome to the source code of my personal portfolio website. This project is a fully responsive, clean, and minimal single-page application showcasing my experience, projects, skills, and contact information.
 
-![Portfolio Screenshot](Images/Profile_Picture.jpg)
 
 ## 🚀 Live Demo
 [View My Portfolio →](https://11shreyan.github.io/myPortfolio/)
