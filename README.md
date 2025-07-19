@@ -82,12 +82,6 @@ If you'd like to get in touch for collaboration or opportunities:
 
 ---
 
-## 📌 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## 🙏 Acknowledgements
 
 - Icons from [Devicon](https://devicon.dev/)
